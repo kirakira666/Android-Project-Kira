@@ -1,5 +1,17 @@
 # Flutter
 
-> Flutter是Google的UI工具包，可通过单个代码库为[移动](https://flutter.dev/docs)，[网络](https://flutter.dev/web)和[台式](https://flutter.dev/desktop)机构建漂亮的，本机编译的应用程序 。
+> Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。
+
+#### 快速开发
+
+毫秒级的热重载，修改后，应用界面会立即更新。使用丰富的、完全可定制的widget在几分钟内构建原生界面。
+
+#### 富有表现力和灵活的UI
+
+快速发布聚焦于原生体验的功能。分层的架构允许完全自定义，从而实现快速渲染和富有表现力、灵活的设计。
+
+#### 原生性能
+
+Flutter包含了许多核心的widget，如滚动、导航、图标和字体等，这些都可以在iOS和Android上达到原生应用一样的性能。
 
 ![image-20210310164846727](flutter.assets/image-20210310164846727.png)
