@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 07 20:23:44 CST 2021
+0.baseType=DIRECTORY
+0.base=D\:\\360MoveData\\Users\\84786\\Desktop\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
