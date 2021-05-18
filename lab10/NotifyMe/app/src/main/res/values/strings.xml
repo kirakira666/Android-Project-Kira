@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notify Me!</string>
+    <string name="notification_title">一个通知</string>
+    <string name="notification_text">通知内容</string>
+    <string name="update">更新通知</string>
+    <string name="notify_me">Notify Me!</string>
+    <string name="update_me">Update Me!</string>
+    <string name="cancel_me">Cancel Me!</string>
+    <string name="notification_updated">通知更新了!</string>
+    <string name="notification_channel_name">Mascot Notification</string>
+    <string name="notification_channel_description">Notification from Mascot</string>
+</resources>
